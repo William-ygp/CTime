@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795973906055",
+    "project_id": "c-time-2410c",
+    "storage_bucket": "c-time-2410c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795973906055:android:721c6404e011d0f6499222",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_11_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ApoA9CyliH_nIfpNe8Q7vVUxT1_gtZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
